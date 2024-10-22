@@ -1,0 +1,36 @@
+ID,Name,Age,Purchase_Amount,Purchase_Date,Subscription_Status,State
+101,John Doe,28,250.5,2023-08-01,Active,Michigan
+102,Jane Smith,34,125.75,2023-08-05,Expired,Georgia
+103,Alice Johnson,45,300.2,2023-08-10,Active,Washington
+104,Mike Brown,23,450.0,2023-08-15,Active,North Carolina
+105,Emily Davis,41,150.25,2023-08-20,Expired,Colorado
+106,Chris White,37,320.0,2023-08-22,Expired,Indiana
+107,Laura Green,29,210.75,2023-08-25,Active,New Jersey
+108,James Black,50,175.8,2023-08-28,Expired,Pennsylvania
+109,Olivia Blue,31,490.5,2023-09-01,Active,Oregon
+110,David Gold,27,130.25,2023-09-03,Expired,Kentucky
+111,Sophia Grey,42,500.0,2023-09-06,Active,Louisiana
+112,Ethan Silver,36,220.6,2023-09-09,Expired,Tennessee
+113,Ava Pink,33,310.4,2023-09-12,Active,Kentucky
+114,Daniel Yellow,39,280.9,2023-09-15,Active,Louisiana
+115,Isabella Violet,44,405.75,2023-09-18,Expired,Tennessee
+116,Mason Red,29,410.75,2023-09-20,Active,California
+117,Liam Green,34,380.4,2023-09-22,Expired,Texas
+118,Noah Brown,27,520.0,2023-09-24,Active,Florida
+119,Emma Blue,22,240.25,2023-09-26,Expired,New York
+120,Mia Grey,45,350.3,2023-09-28,Active,Illinois
+121,Logan Black,41,290.9,2023-09-30,Active,Nevada
+122,Lucas White,38,315.5,2023-10-02,Expired,Ohio
+123,Amelia Gold,31,450.8,2023-10-04,Active,Arizona
+124,Henry Pink,24,275.6,2023-10-06,Expired,Michigan
+125,Zoe Violet,40,190.45,2023-10-08,Expired,Georgia
+126,Lily Silver,35,500.7,2023-10-10,Active,Washington
+127,Jacob Yellow,33,240.15,2023-10-12,Expired,North Carolina
+128,Sophie Blue,36,405.0,2023-10-14,Active,Colorado
+129,Jack Gold,42,310.25,2023-10-16,Expired,Indiana
+130,Ella Green,39,295.6,2023-10-18,Expired,New Jersey
+131,Isaac Red,43,380.9,2023-10-20,Active,Pennsylvania
+132,Elijah White,28,435.7,2023-10-22,Expired,Oregon
+133,Grace Black,50,210.55,2023-10-24,Active,Kentucky
+134,Hannah Silver,44,275.3,2023-10-26,Expired,Louisiana
+135,Levi Grey,37,305.2,2023-10-28,Active,Tennessee
